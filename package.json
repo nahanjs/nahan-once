@@ -1,0 +1,7 @@
+{
+  "name": "nahan-once",
+  "version": "0.0.0",
+  "description": "Execute given middleware only once.",
+  "main": "index.js",
+  "repository": "nahanjs/nahan-onion"
+}
